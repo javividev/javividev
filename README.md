@@ -47,4 +47,4 @@ Visita mi web: https://javivi.dev
 
 ---
 ## 📫 Cómo contactarme
-- ✉️ javivi@kindlyklan.com
+- ✉️ contacto@javivi.dev
